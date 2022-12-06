@@ -24,7 +24,7 @@ https://github.com/AlchemyCMS/alchemy-dragonfly-s3
 
 ## JSON API
 
-Use Alchemy as a headless cms for you frontend application
+Use Alchemy as a headless cms for your frontend application
 
 https://github.com/AlchemyCMS/alchemy-json_api
 
