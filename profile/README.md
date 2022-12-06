@@ -1,8 +1,8 @@
 # AlchemyCMS
 
-👋🏻 Welcome. 
+👋🏻 Welcome.
 
-Alchemy is a Rails content management engine, that you can pluck into any Rails app and can used headless or as a classic SSR CMS.
+Alchemy is a Rails content management engine, that you can pluck into any Rails app and can be used headless or as a classic SSR CMS.
 
 ## The main repository
 
