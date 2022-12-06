@@ -1,6 +1,6 @@
 # AlchemyCMS
 
-![AlchemyCMS Logo](../assets/alchemy_logo.svg)
+![AlchemyCMS Logo](https://raw.githubusercontent.com/AlchemyCMS/.github/main/assets/alchemy_logo.svg)
 
 ## 👋🏻 Welcome.
 
