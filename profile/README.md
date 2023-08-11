@@ -44,5 +44,9 @@ https://github.com/AlchemyCMS/alchemy-vue
 
 ## Sponsoring
 
+### 🏆 Main sponsor
+
+[![BLISH Logo](https://blish.cloud/BLISH_Logo.svg)](https://blish.cloud)
+
 If you like Alchemy or your company is using Alchemy please consider to sponsor our work over
 at our [OpenCollective](https://opencollective.com/alchemy_cms).
