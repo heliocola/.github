@@ -39,7 +39,7 @@ https://github.com/AlchemyCMS/alchemy-vue
 ## Resources.
 
 - [Guides](https://guides.alchemy-cms.com)
-- [Demo](https://alchemy-demo.herokuapp.com)
+- [Demo](https://alchemy-demo.fly.dev)
 - [Getting started](https://github.com/AlchemyCMS/alchemy_cms#%EF%B8%8F-installation)
 
 ## Sponsoring
